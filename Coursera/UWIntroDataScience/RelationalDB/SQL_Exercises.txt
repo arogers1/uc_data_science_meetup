@@ -1,0 +1,19 @@
+Instructions:
+Install MySql and Sequel Pro (or MySql Workbench, or whatever MySQL client you prefer) and import the world.sql database. Using that database, do the following exercises.
+
+Exercises:
+1) Get all countries with population greater than 10,000,000. How many are there?
+
+2) Get the countries of the world's twenty most populous cities.
+
+3) Get all countries that have at least one city with a population greater than 1,000,000. How many are there?
+
+4) Get all countries that have English as their official language. Now get all countries that have English as an unofficial language.
+
+5) Find the average GNP and average life expectancy for each continent.
+
+6) Get the average GNP for each type of government. Which type has the highest average GNP? Which has the lowest?
+
+7) Get average life expectancies for all countries that speak each language (i.e., average life expectancy of all countries that speak English, average life expectancy of all countries that speak Spanish, etc.). Which language has the highest life expectancy? Which has the lowest?
+
+8) Get all cities with a population greater than 1,000,000 that are from countries that have a Republic as their form of government and speak Arabic.
