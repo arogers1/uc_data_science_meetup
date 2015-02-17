@@ -10,10 +10,14 @@ Exercises:
 
 4) Get all countries that have English as their official language. Now get all countries that have English as an unofficial language.
 
-5) Find the average GNP and average life expectancy for each continent.
+5) Find the total population of Asia.
 
-6) Get the average GNP for each type of government. Which type has the highest average GNP? Which has the lowest?
+6) Find the total population of Spanish speaking countries.
 
-7) Get average life expectancies for all countries that speak each language (i.e., average life expectancy of all countries that speak English, average life expectancy of all countries that speak Spanish, etc.). Which language has the highest life expectancy? Which has the lowest?
+7) Find the average GNP and average life expectancy for each continent.
 
-8) Get all cities with a population greater than 1,000,000 that are from countries that have a Republic as their form of government and speak Arabic.
+8) Get the average GNP for each type of government. Which type has the highest average GNP? Which has the lowest?
+
+9) Get average life expectancies for all countries that speak each language (i.e., average life expectancy of all countries that speak English, average life expectancy of all countries that speak Spanish, etc.). Which language has the highest life expectancy? Which has the lowest?
+
+10) Get all cities with a population greater than 1,000,000 that are from countries that have a Republic as their form of government and speak Arabic.
