@@ -1,7 +1,25 @@
-Getting Started
+## Set up Database
 
 * Load in the .sql file ```mysql -u username -p scriptures < scriptures.sql```
 
 * Add the polarity column to the database files  ```mysql -u username -p scriptures < add_polarity_column.sql```
 
-* 
+## Set up Sentiment analysis dictionary file
+
+* Go and grab the AFINN-111.txt file ```wget http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/6010/zip/imm6010.zip```
+
+* Unzip the file download  ```unzip imm6010.zip```
+
+## Setting up Flask
+
+* Make sure python 2.7.+ is installed ```python -V```
+
+* Make sure pip is installed  ```sudo easy_install pip```
+
+* Set up virtualenvwrapper  ``` pip install virtualenvwrapper```
+
+* Create an environment ```mkvirtualenv scripture_env```
+
+* Install python dependencies ```pip install Flask, mysql-python, flask-sqlalchemy``` or ```pip install -r /path/to/requirements.txt```
+
+* Run the app ```python runserver.py```
