@@ -15,7 +15,7 @@ Instructions for MongoDB
 
 ## Run MongoDB server
 
-```mongod```
+```mongod ```
 
 ## import zips.json (zip code database)
 
