@@ -2,9 +2,7 @@
 
 * Load in the .sql file ```mysql -u username -p scriptures < scriptures.sql```
 
-* Add the polarity column to the database files  ```mysql -u username -p scriptures < add_polarity_column.sql```
-
-## Set up Sentiment Analysis Dictionary
+## Set up Sentiment Analysis Dictionary (ALREADY SET UP, BUT THIS IS FOR FUTURE REFERENCE)
 
 * Go and grab the AFINN-111.txt file ```wget http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/6010/zip/imm6010.zip```
 
