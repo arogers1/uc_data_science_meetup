@@ -23,3 +23,16 @@
 * Install python dependencies ```pip install Flask, mysql-python, flask-sqlalchemy``` or ```pip install -r /path/to/requirements.txt```
 
 * Run the app ```python runserver.py```
+
+
+## Exploration Questions
+
+* What are the most positive / negative verses in scripture?
+
+* What are the weaknesses of this type of analysis?
+
+* What is the most positive / negative book?
+
+* Who is the biggest blowhard / in the scripture?
+
+* What book has the most word diversity?
