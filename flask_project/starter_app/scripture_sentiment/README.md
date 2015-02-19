@@ -10,7 +10,7 @@
 
 * Unzip the file download  ```unzip imm6010.zip```
 
-## Setting up Flask
+## Set up Flask
 
 * Make sure python 2.7.+ is installed ```python -V```
 
