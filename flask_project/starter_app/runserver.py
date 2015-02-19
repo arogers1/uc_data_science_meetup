@@ -1,3 +1,3 @@
-from flask_project import app
+from scripture_sentiment import app
  
 app.run(debug=True)
