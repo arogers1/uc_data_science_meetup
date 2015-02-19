@@ -4,7 +4,7 @@
 
 * Add the polarity column to the database files  ```mysql -u username -p scriptures < add_polarity_column.sql```
 
-## Set up Sentiment analysis dictionary file
+## Set up Sentiment Analysis Dictionary
 
 * Go and grab the AFINN-111.txt file ```wget http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/6010/zip/imm6010.zip```
 
@@ -33,6 +33,6 @@
 
 * What is the most positive / negative book?
 
-* Who is the biggest blowhard / in the scripture?
+* Who writes the smallest verses in the scripture?
 
 * What book has the most word diversity?
