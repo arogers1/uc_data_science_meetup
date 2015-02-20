@@ -1,5 +1,11 @@
 ## Set up Database
 
+* Open mysql ```mysql -u username -p```
+
+* Create sql database ```create database scriptures;```
+
+* Exit mysql ```quit```
+
 * Load in the .sql file ```mysql -u username -p scriptures < scriptures.sql```
 
 ## Set up Sentiment Analysis Dictionary (ALREADY SET UP, BUT THIS IS FOR FUTURE REFERENCE)
