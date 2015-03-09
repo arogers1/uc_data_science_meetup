@@ -1,7 +1,7 @@
 Dental Data
 ============
 
-Anonymized ata from a dental office on regular visitors.
+Anonymized data from a dental office on regular visitors.
 
 Data Normalization Notes
 =========================
