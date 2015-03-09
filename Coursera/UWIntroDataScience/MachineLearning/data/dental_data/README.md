@@ -7,7 +7,7 @@ Data Normalization Notes
 =========================
 - Removed duplicate field `patient_id`
 - Removed `name`
-  - name data was anonymized to just be "Patient <patient_id>" so
+  - name data was anonymized to just be "Patient {{patient_id}}" so
     it didn't provide much value. Just repeated the `patient_id`.
 - Removed `has_address_1`
   - doesn't matter since we don't have exact street
