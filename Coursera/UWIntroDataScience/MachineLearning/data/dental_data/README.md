@@ -18,4 +18,7 @@ Data Normalization Notes
     accordingly
 - Fixed dates to be SQL-compliant formatted.
 - Normalized `zipcode` by simplifying 9-digit zip codes to 5-digit zip codes.
-- Removed patient 2738 due to bad data ('68' for `state` and '801' for `zipcode`...)
+- Removed patient 2738 due to bad data ('68' for `state` and '801' for 
+  `zipcode`...)
+- Renamed some columns for clarity
+- Created SQL and JSON representations of the data
