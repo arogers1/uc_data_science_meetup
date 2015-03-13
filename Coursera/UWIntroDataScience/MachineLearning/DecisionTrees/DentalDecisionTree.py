@@ -16,7 +16,7 @@ from IPython.display import Image
 import StringIO, pydot
 %matplotlib 
 
-dental_df = pd.read_csv("../data/dental_data.csv")
+dental_df = pd.read_csv("../data/dental_data/original_dental_data.csv")
 cols = [c for c in dental_df.columns if c not in ("patient_id","patient_id.1","name","responsible_party","birth_year","prim_employer_id","sec_employer_id","first_visit_date","last_date_seen","date_entered","next_regular_appointment","next_preventive_appointment","next_recall_date","is_active","zipcode","city")
 ]
 dental_df["city"] = pd.factorize(dental_df["city"])[0]
